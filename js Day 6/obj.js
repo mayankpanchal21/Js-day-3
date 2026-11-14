@@ -19,7 +19,9 @@ let std2 = {
         console.log('displayingg student data.....');
     }
 }
+
 // for replicate you can use shift + alt + downarrowkey
+
 let std3 = {
     "name-student": "aditya",
     branch : "btech cs",
@@ -35,6 +37,7 @@ let std3 = {
 // for (let element of std3.subject) {
 //     console.log(element);
 // }
+
 console.log(std3["name-student"]);
 let ar = std3.subject.pop();
 console.log(ar);
