@@ -1,0 +1,9 @@
+.list{
+    display: flex;
+    justify-content: space-between;
+}
+
+.color{
+    background-color: rgb(216, 216, 78);
+    color: black;
+}
